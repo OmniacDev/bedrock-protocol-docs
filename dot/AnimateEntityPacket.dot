@@ -27,14 +27,14 @@ rankdir = LR
 4 [label="string",comment="name: \"string\", typeName: \"\", id: 4, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""];
 5 [label="mStopExpression",comment="name: \"mStopExpression\", typeName: \"\", id: 5, branchId: 0, recurseId: -1, attributes: 0, notes: \"The stop expression, the the condition that determines when to transition to the next state.\""];
 6 [label="string",comment="name: \"string\", typeName: \"\", id: 6, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""];
-7 [label="Stop expression molang version",comment="name: \"Stop expression molang version\", typeName: \"\", id: 7, branchId: 0, recurseId: -1, attributes: 0, notes: \"enumeration: MolangVersion\""];
+7 [label="Stop expression molang version",comment="name: \"Stop expression molang version\", typeName: \"\", id: 7, branchId: 0, recurseId: -1, attributes: 0, notes: \"\""];
 8 [label="int",comment="name: \"int\", typeName: \"\", id: 8, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""];
 9 [label="mController",comment="name: \"mController\", typeName: \"\", id: 9, branchId: 0, recurseId: -1, attributes: 0, notes: \"The name of an animation controller\""];
 10 [label="string",comment="name: \"string\", typeName: \"\", id: 10, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""];
 11 [label="mBlendOutTime",comment="name: \"mBlendOutTime\", typeName: \"\", id: 11, branchId: 0, recurseId: -1, attributes: 0, notes: \"The amount of time to blend out of this animation\""];
 12 [label="float",comment="name: \"float\", typeName: \"\", id: 12, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""];
 13 [label="mRuntimeIds",comment="name: \"mRuntimeIds\", typeName: \"\", id: 13, branchId: 0, recurseId: -1, attributes: 8, notes: \"ActorRuntimeIDs of the entities that will play the specified animation\""];
-14 [label="Array Size",comment="name: \"Array Size\", typeName: \"\", id: 14, branchId: 0, recurseId: -1, attributes: 0, notes: \"\""];
+14 [label="List Size",comment="name: \"List Size\", typeName: \"\", id: 14, branchId: 0, recurseId: -1, attributes: 0, notes: \"\""];
 15 [label="unsigned varint",comment="name: \"unsigned varint\", typeName: \"\", id: 15, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""];
 16 [label="example element",style=dotted,comment="name: \"example element\", typeName: \"\", id: 16, branchId: 0, recurseId: -1, attributes: 16, notes: \"\""];
 17 [label="runtimeId",comment="name: \"runtimeId\", typeName: \"ActorRuntimeID\", id: 17, branchId: 0, recurseId: -1, attributes: 256, notes: \"\""];
